@@ -1,0 +1,8 @@
+rootProject.name = 'MPP_JocEngleza'
+include 'Model'
+include 'Repos'
+include 'Services'
+include 'Server'
+include 'Client'
+include 'RestServices'
+
